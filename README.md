@@ -1,4 +1,4 @@
-# Deep-Adaptaion-Networks-based-Gesture-Recognition
+# Deep-Adaptation-Networks-based-Gesture-Recognition
 The project can be devided into two parts:
 1) Data augment based on conditional GAN, related modules: 
 
