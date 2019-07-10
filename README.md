@@ -9,4 +9,4 @@ The project can be devided into two parts:
    
    t_model.py for transfering source model to targets;
    
-   mmd.py for computing domain discrepancy to adaptation.
+   mmd.py for computing domain discrepancy for adaptation.
